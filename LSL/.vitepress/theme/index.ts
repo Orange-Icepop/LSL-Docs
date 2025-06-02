@@ -3,6 +3,11 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+// Lumen theme
+/*
+import '@theojs/lumen/theme'
+import './var.css'
+import { HomeUnderline } from '@theojs/lumen'*/
 
 export default {
   extends: DefaultTheme,
@@ -12,6 +17,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    
   }
 } satisfies Theme

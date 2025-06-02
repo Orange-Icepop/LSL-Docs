@@ -1,3 +1,37 @@
+---
+{
+    "title": "markdown-examples",
+    "description": "",
+    "navbar": true,
+    "sideBar": true,
+    "footer": false,
+    "outline": [
+        1,
+        3
+    ],
+    "editLink": false,
+    "lastUpdated": true,
+    "aside": "right",
+    "layout": "doc",
+    "custom": {},
+    "hero": {
+        "image": {
+            "src": "",
+            "alt": "",
+            "width": "",
+            "height": ""
+        },
+        "name": "VitePressSimple",
+        "text": "quick to config vitePress",
+        "description": "",
+        "tagline": "",
+        "actions": [],
+        "features": [],
+        "head": []
+    }
+}
+---
+
 # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
