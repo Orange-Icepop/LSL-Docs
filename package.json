@@ -3,9 +3,9 @@
     "vitepress": "^1.6.3"
   },
   "scripts": {
-    "docs:dev": "vitepress dev LSL --host 0.0.0.0 --port 25405",
-    "docs:build": "vitepress build LSL",
-    "docs:preview": "vitepress preview LSL --host 0.0.0.0 --port 25405"
+    "docs:dev": "vitepress dev --host 0.0.0.0 --port 25405",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview --host 0.0.0.0 --port 25405"
   },
   "dependencies": {
     "@theojs/lumen": "^5.5.0"
