@@ -1,2 +1,3 @@
 /node_modules
 /LSL/.vitepress/cache
+/LSL/.vitepress/dist
